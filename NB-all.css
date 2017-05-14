@@ -4007,8 +4007,8 @@ li a.current{}
 .movie-update{width:100%!important;margin:0!important;}
 }
 @media (max-width:640px){.row{margin:0;}
-.col-sm-6{width:33%;}
-.buttons.row .col-sm-6{width:50%;}
+.col-sm-6{width:53%;}
+.buttons.row .col-sm-6{width:70%;}
 }
 @media (max-width:480px){#menu ul li.item{position:normal;}
 .block .block-title{padding-right:0;padding-left:15px;font-size:11px !important;}

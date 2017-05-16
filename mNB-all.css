@@ -3603,8 +3603,8 @@ a:hover{text-decoration:none;outline:0;}
 .list-film.row{margin-left:-5px;margin-right:-5px;}
 .list-film .item{float:left;position:relative;box-sizing:border-box;overflow:hidden;}
 .list-film .item,
-.list-film .item .poster img{-webkit-box-sizing:border-box;-khtml-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;}
-.list-film .item .inner{margin:0;position:relative;margin-top:10px;background:#000;border: 1px solid #000;}
+.list-film .item .poster img{-webkit-box-sizing:border-box;-khtml-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;border-radius:10px;}
+.list-film .item .inner{margin:0;position:relative;margin-top:10px;background:#000;border: 1px solid #000;border-radius:10px;}
 .block-body .content .list-film .item .inner{}
 .item.col-lg-3.col-md-3.col-sm-6.col-xs-6{margin-bottom:10px;}
 .item.col-lg-3.col-md-3.col-sm-6.col-xs-6:hover .list-film .item .inner{background: #141414;}
@@ -3614,7 +3614,7 @@ a:hover{text-decoration:none;outline:0;}
 .list-film .item .poster{display:block;margin-bottom:8px;width:100%;position:relative;}
 .list-film .item .poster:hover i{display:block;}
 .list-film .item .poster i{display:none;position:absolute;background-position:0 -48px;width:70px;height:70px;content:"";top:50%;left:50%;margin-left:-35px;margin-top:-35px;}
-.list-film .item .poster img{width:100%;height:230px;display:block;;}
+.list-film .item .poster img{width:100%;display:block;;}
 .list-film .item .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#58b95b;font-size:12px;font-weight:bold;padding: 1px 5px;}
 .list-film .item dfn{color:#696969;font-style:normal;padding: 1px 5px;}
 .list-film.clip .item{}

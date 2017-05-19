@@ -3604,7 +3604,7 @@ a:hover{text-decoration:none;outline:0;}
 .list-film .item{float:left;position:relative;box-sizing:border-box;overflow:hidden;}
 .list-film .item,
 .list-film .item .poster img{-webkit-box-sizing:border-box;-khtml-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;border-radius:10px;}
-.list-film .item .inner{margin:0;position:relative;margin-top:10px;background:#000;border: 1px solid #000;border-radius:10px;}
+.list-film .item .inner{margin:0;position:relative;margin-top:10px;background:rgb(25, 25, 25);border: 1px solid #FFD700;border-radius:10px;}
 .block-body .content .list-film .item .inner{}
 .item.col-lg-3.col-md-3.col-sm-6.col-xs-6{margin-bottom:10px;}
 .item.col-lg-3.col-md-3.col-sm-6.col-xs-6:hover .list-film .item .inner{background: #141414;}

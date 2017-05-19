@@ -419,7 +419,7 @@ body{line-height:1.42857143;color:#8F8E8E;}
 button,
 input,
 select,
-textarea{font-family:inherit;font-size:inherit;line-height:inherit;background-color:#450050;border-radius:10px;}
+textarea{font-family:inherit;font-size:inherit;line-height:inherit;background-color:#FFD700;border-radius:10px;}
 a{color:#fff;text-decoration:none;}
 a:focus,
 /*a:hover{color:#23527c;text-decoration:underline;}*/

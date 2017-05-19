@@ -3617,7 +3617,7 @@ a:hover{text-decoration:none;outline:0;}
 .list-film .item .poster img{width:100%;height:180px;display:block;}
 .list-film .item .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#FFFFFF;font-size:12px;font-weight:bold;padding: 1px 5px;}
 .list-film .item .watchmov{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#FFFFFF;background-color:#FFD700;font-size:12px;font-weight:bold;padding: 1px 5px;}
-.list-film .item .trailermovmov{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#FFFFFF;background-color:#FFD700;font-size:12px;font-weight:bold;padding: 1px 5px;}
+.list-film .item .trailermov{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#FFFFFF;background-color:#FFD700;font-size:12px;font-weight:bold;padding: 1px 5px;}
 .list-film .item dfn{color:#696969;font-style:normal;padding: 1px 5px;}
 .list-film.clip .item{}
 .list-film.clip .item .name{font-size:11px;color:rgb(234, 171, 12);    padding: 7px;

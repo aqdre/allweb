@@ -3493,7 +3493,7 @@ img.mfp-img{box-sizing:border-box;padding:40px 0;margin:0 auto;}
 .owl-carousel .owl-item,
 .owl-carousel .owl-wrapper{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);}
 *{outline:0;}
-body{font-family:Arial,sans-serif;font-size:12px;padding:0;margin:0;background:#191919;outline:0;}
+body{font-family:Arial,sans-serif;font-size:12px;padding:0;margin:0;background-image: url(http://parallelmadness.com/wp-content/uploads/2014/08/Red-Curtains.jpg);background-position:top left;background-repeat: repeat-x repeat-y; outline:0;}
 a,
 a:focus,
 a:hover{text-decoration:none;outline:0;}

@@ -3932,7 +3932,7 @@ span.page_nav{margin-top:15px;overflow:hidden;clear:both;display:block;text-alig
 .block.info-film .col2 .buttons .rating .stars-wrap{margin:0 auto;overflow:hidden;display:block;}
 .block.info-film .col2 .buttons .rating .stars{overflow:hidden;display:inline-block;}
 .block.info-film .col2 .buttons .rating .stars .fa{color:#F0B320;cursor:pointer;font-size:22px;padding:2px 3px;margin:0;float:left;}
-.block.info-film-text{padding:10px;background: rgba(0, 0, 0, 0.30);border-radius:10px;border:1px solid #FFD700;}
+.block.info-film-text{padding:10px;background: rgba(15, 15, 15, 0.75);border-radius:10px;border:1px solid #FFD700;}
 .block.info-film-text .block-body{font-size:13px;line-height:1.6em;text-align:justify;}
 .block.info-film-text .block-body img{width:100%!important;height:100%!important;border:1px solid rgba(0, 0, 0, 0.46);-webkit-border-radius:2px;-khtml-border-radius:2px;-moz-border-radius:2px;-ms-border-radius:2px;-o-border-radius:2px;border-radius:2px;display:block;margin:0 auto;}
 .block.media{margin-bottom:0;}
@@ -3945,7 +3945,7 @@ span.page_nav{margin-top:15px;overflow:hidden;clear:both;display:block;text-alig
 .block.media .block-body.miniPlayer #player-area{width:350px !important;height:250px !important;display:block;background:#000;}
 .block.media .block-body.miniPlayer{padding-top:395px !important;}
 .block.media .block-body.miniPlayer #abd_mv{position:fixed;right:0;top:50px;z-index:2;border:1px solid #000;}
-.block.media .block-body .controls{color:#ddd;padding:5px;border:1px solid #070707;background:rgba(0, 0, 0, 0.30);}
+.block.media .block-body .controls{color:#ffffff;padding:5px;border:1px solid #FFD700;background:rgba(15, 15, 15, 0.30);}
 .block.media .block-body .controls,
 .block.servers .server{overflow:hidden;}
 .block.media .block-body .controls .item{float:left;display:block;height:30px;line-height:30px;margin:3px;cursor:pointer;}

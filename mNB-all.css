@@ -3932,7 +3932,7 @@ span.page_nav{margin-top:15px;overflow:hidden;clear:both;display:block;text-alig
 .block.info-film .col2 .buttons .rating .stars-wrap{margin:0 auto;overflow:hidden;display:block;}
 .block.info-film .col2 .buttons .rating .stars{overflow:hidden;display:inline-block;}
 .block.info-film .col2 .buttons .rating .stars .fa{color:#F0B320;cursor:pointer;font-size:22px;padding:2px 3px;margin:0;float:left;}
-.block.info-film-text{padding:10px;background: rgba(15, 15, 15, 0.75);border-radius:10px;border:1px solid #FFD700;}
+.block.info-film-text{padding:10px;background: rgba(15, 15, 15, 0.75);}
 .block.info-film-text .block-body{font-size:13px;line-height:1.6em;text-align:justify;}
 .block.info-film-text .block-body img{width:100%!important;height:100%!important;border:1px solid rgba(0, 0, 0, 0.46);-webkit-border-radius:2px;-khtml-border-radius:2px;-moz-border-radius:2px;-ms-border-radius:2px;-o-border-radius:2px;border-radius:2px;display:block;margin:0 auto;}
 .block.media{margin-bottom:0;}

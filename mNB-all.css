@@ -2114,7 +2114,7 @@ to{background-position:0 0;}
 .media{}
 .media:first-child{margin-top:0;}
 .media,
-.media-body{overflow:hidden;zoom:1;}
+.media-body{overflow:hidden;zoom:1;border: 1px solid rgba(255, 215, 0, 0.3);}
 .media-body{width:10000px;}
 .media-right,
 .media>.pull-right{padding-left:10px;}
@@ -3958,7 +3958,7 @@ span.page_nav{margin-top:15px;overflow:hidden;clear:both;display:block;text-alig
 .block.media .block-body .controls .item.rating{width:190px;}
 .block.media .block-body .controls .item.rating .stars{display:block;float:left;margin-right:8px;margin-top:2px;}
 .block.media .block-body .controls .item.rating .stars i{padding:0 2px;color:#F0B320;font-size:19px;cursor:pointer;}
-.block.servers .server{border:1px solid #070707;background:#0e0e0e;margin:5px 0;padding:10px 15px;color:#fff;}
+.block.servers .server{background:#0e0e0e;margin:5px 0;padding:10px 15px;color:#fff;}
 .block.servers .server .name{font-weight:700;line-height:28px;margin-top:8px;}
 .block.servers .server .name .fa{color:#CA8800;margin-right:8px;font-size:16px;}
 .block.servers .server .episodes ul{list-style:none;overflow:hidden;padding:0;margin:0;}

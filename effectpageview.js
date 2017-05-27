@@ -2,7 +2,7 @@
 <script>
 $.each($(&#39;a[name]&#39;), function(i, e) {
 var elem = $(e).parent().find(&#39;#postviews&#39;);
-var blogStats = new Firebase(&quot;https://YOUR-APP-NAME.firebaseio.com/pages/id/&quot; + $(e).attr(&#39;name&#39;));
+var blogStats = new Firebase(&quot;https://pagecountview.firebaseio.com/pages/id/&quot; + $(e).attr(&#39;name&#39;));
 blogStats.once(&#39;value&#39;, function(snapshot) {
 var data = snapshot.val();
 var isnew = false;

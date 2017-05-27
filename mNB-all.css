@@ -1106,7 +1106,7 @@ fieldset,
 legend{padding:0;border:0;}
 fieldset{min-width:0;margin:0;}
 legend{display:block;width:100%;margin-bottom:20px;font-size:21px;line-height:inherit;color:#333;border-bottom:1px solid #e5e5e5;}
-label{display:block;max-width:100%;margin-bottom:5px;}
+label{display:block;max-width:100%;}
 input[type=search]{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;-webkit-appearance:none;}
 input[type=checkbox],
 input[type=radio]{margin:4px 0 0;margin-top:1px \9;line-height:normal;}
@@ -3673,7 +3673,7 @@ a:hover{text-decoration:none;outline:0;}
 .content-wrapper .container.fit .col-xs-8,
 .content-wrapper .container.fit .col-xs-9{padding-left:5px;padding-right:5px;}
 .content-wrapper .container.fit .row{margin-left:-5px;margin-right:-5px;}
-.block{margin-bottom:10px;background: rgba(15, 15, 15, 0.75);padding:5px;overflow: hidden;}
+.block{margin-bottom:10px;background: rgba(15, 15, 15, 0.75);overflow: hidden;}
 .block .block-title{overflow:hidden;background-color:rgba(255, 255, 255, 0.05);line-height:45px;position:relative;color:#fff;font-size:13px;padding:0 100px 0 30px;text-transform:uppercase;font-weight:700;margin-bottom:10px;}
 .block .block-title a{color:#fff;-moz-transition:all .2s ease-in-out 0s;transition:all .2s ease-in-out 0s;}
 .block .block-title .tabs .tab,
@@ -3932,7 +3932,7 @@ span.page_nav{margin-top:15px;overflow:hidden;clear:both;display:block;text-alig
 .block.info-film .col2 .buttons .rating .stars-wrap{margin:0 auto;overflow:hidden;display:block;}
 .block.info-film .col2 .buttons .rating .stars{overflow:hidden;display:inline-block;}
 .block.info-film .col2 .buttons .rating .stars .fa{color:#F0B320;cursor:pointer;font-size:22px;padding:2px 3px;margin:0;float:left;}
-.block.info-film-text{padding:10px;background: rgba(15, 15, 15, 0.75);}
+.block.info-film-text{background: rgba(15, 15, 15, 0.75);}
 .block.info-film-text .block-body{font-size:13px;line-height:1.6em;text-align:justify;}
 .block.info-film-text .block-body img{width:100%!important;height:100%!important;-webkit-border-radius:2px;-khtml-border-radius:2px;-moz-border-radius:2px;-ms-border-radius:2px;-o-border-radius:2px;border-radius:2px;display:block;margin:0 auto;}
 .block.media{margin-bottom:0;}

@@ -8,4 +8,4 @@ function getNumberView() {
     $('#myNumber').html(randomnumber); // Sets content of <div> to number
     return false; // Returns false just to tidy everything up
 }
-getNumber();
+getNumberView();

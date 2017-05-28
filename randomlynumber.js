@@ -5,7 +5,7 @@ function getNumberView() {
     var minNumberView = 0; // The minimum number you want
     var maxNumberView = 100; // The maximum number you want
     var randomnumberView = Math.floor(Math.random() * (maxNumberView + 1) + minNumberView); // Generates random number
-    $('#myNumber').html(randomnumber); // Sets content of <div> to number
+    $('#myNumber').html(randomnumberView); // Sets content of <div> to number
     return false; // Returns false just to tidy everything up
 }
 getNumberView();
